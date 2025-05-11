@@ -1,0 +1,73 @@
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0"/>
+
+<head>
+<script src="src/main.js" type="module" defer></script>
+<link href="style.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poppins:600,700" rel="stylesheet">
+<link rel="icon" href="assets/favicon.png">
+</head>
+
+<body>
+<div id="home-page" class="col">
+
+  <h1 class="div1">Morse Trainer</h1>
+
+  <div class="parent" onclick="start_encode()">
+    <button class="div1">Encode</button>
+    <p class="div2">ABC</p>
+    <p class="div3">100%</p>
+    <p class="div4">123</p>
+    <p class="div5">100%</p>
+    <p class="div6">. ! ?</p>
+    <p class="div7">100%</p>
+  </div>
+
+  <div class="parent" onclick="start_decode()">
+    <button class="div1">Decode</button>
+    <p class="div2">ABC</p>
+    <p class="div3">100%</p>
+    <p class="div4">123</p>
+    <p class="div5">100%</p>
+    <p class="div6">. ! ?</p>
+    <p class="div7">100%</p>
+  </div>
+
+</div>
+
+<div id="encode-page" class="col" style="display:none">
+  <div id="symbol-progress"></div>
+  <div id="encode-content">
+      <div id="morse-hint"></div>
+      <div id="encode-word-scroll"></div>
+      <div id="morse-row"></div>
+  </div>
+  <div id="keyboard">
+    <div id="keyboard-dot"
+      ontouchstart="keyboard_dot_listener.touchstart(event)"
+      ontouchend="keyboard_dot_listener.touchend(event)"
+      ontouchcancel="keyboard_dot_listener.touchcancel(event)"
+      onmousedown="keyboard_dot_listener.mousedown(event)"
+      onmouseup="keyboard_dot_listener.mouseup(event)">
+          <div class="dot" style="background:#000;pointer-events:none"></div>
+        </div>
+    <div id="keyboard-separator"></div>
+    <div id="keyboard-dash"
+      ontouchstart="keyboard_dash_listener.touchstart(event)"
+      ontouchend="keyboard_dash_listener.touchend(event)"
+      ontouchcancel="keyboard_dash_listener.touchcancel(event)"
+      onmousedown="keyboard_dash_listener.mousedown(event)"
+      onmouseup="keyboard_dash_listener.mouseup(event)">
+          <div class="dash" style="background:#000;pointer-events:none"></div>
+        </div>
+  </div>
+</div>
+
+<div id="decode-page" class="col" style="display:none">
+  <p>TODO</p>
+</div>
+
+
+</body>
+
+</html>

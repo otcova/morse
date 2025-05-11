@@ -1,0 +1,1000 @@
+He's a suspect, isn't he?
+She's a suspect, isn't she?
+He's all alone, isn't he?
+She's all alone, isn't she?
+He's all right, isn't he?
+She's all right, isn't she?
+He's an artist, isn't he?
+She's an artist, isn't she?
+He's angry now, isn't he?
+She's angry now, isn't she?
+He's awake now, isn't he?
+She's awake now, isn't she?
+He's conscious, isn't he?
+She's conscious, isn't she?
+He's depressed, isn't he?
+She's depressed, isn't she?
+He's desperate, isn't he?
+She's desperate, isn't she?
+He's from here, isn't he?
+She's from here, isn't she?
+He's happy now, isn't he?
+She's happy now, isn't she?
+He's hung over, isn't he?
+She's hung over, isn't she?
+He's in danger, isn't he?
+She's in danger, isn't she?
+He's incorrect, isn't he?
+She's incorrect, isn't she?
+He's irritated, isn't he?
+She's irritated, isn't she?
+He's listening, isn't he?
+She's listening, isn't she?
+He's mad at me, isn't he?
+She's mad at me, isn't she?
+He's mad at us, isn't he?
+She's mad at us, isn't she?
+He's off today, isn't he?
+She's off today, isn't she?
+He's ready now, isn't he?
+She's ready now, isn't she?
+He's skeptical, isn't he?
+She's skeptical, isn't she?
+He's still mad, isn't he?
+She's still mad, isn't she?
+He's there now, isn't he?
+She's there now, isn't she?
+He's tone deaf, isn't he?
+She's tone deaf, isn't she?
+He's unmarried, isn't he?
+She's unmarried, isn't she?
+He's very busy, isn't he?
+She's very busy, isn't she?
+He's very lazy, isn't he?
+She's very lazy, isn't she?
+He's very sick, isn't he?
+She's very sick, isn't she?
+He's your boss, isn't he?
+She's your boss, isn't she?
+He's out there, isn't he?
+She's out there, isn't she?
+He's in trouble, isn't he?
+She's in trouble, isn't she?
+He's optimistic, isn't he?
+She's optimistic, isn't she?
+He's very young, isn't he?
+She's very young, isn't she?
+He's unsociable, isn't he?
+She's unsociable, isn't she?
+He's unpleasant, isn't he?
+She's unpleasant, isn't she?
+He's unfriendly, isn't he?
+She's unfriendly, isn't she?
+He's your uncle, isn't he?
+She's your aunt, isn't she?
+He's quite ugly, isn't he?
+She's quite ugly, isn't she?
+He's quite thin, isn't he?
+She's quite thin, isn't she?
+He's very tense, isn't he?
+She's very tense, isn't she?
+He's successful, isn't he?
+She's successful, isn't she?
+He's very smart, isn't he?
+She's very smart, isn't she?
+He's really shy, isn't he?
+She's really shy, isn't she?
+He's rather shy, isn't he?
+She's rather shy, isn't she?
+He's pretty shy, isn't he?
+She's pretty shy, isn't she?
+He's very sharp, isn't he?
+She's very sharp, isn't she?
+He's quite rude, isn't he?
+She's quite rude, isn't she?
+He's being rude, isn't he?
+She's being rude, isn't she?
+He's quite rich, isn't he?
+She's quite rich, isn't she?
+He's prejudiced, isn't he?
+She's prejudiced, isn't she?
+He's possessive, isn't he?
+She's possessive, isn't she?
+He's photogenic, isn't he?
+She's photogenic, isn't she?
+He's persuasive, isn't he?
+She's persuasive, isn't she?
+He's persistent, isn't he?
+She's persistent, isn't she?
+He's passionate, isn't he?
+She's passionate, isn't she?
+He's overweight, isn't he?
+She's overweight, isn't she?
+He's really old, isn't he?
+She's really old, isn't she?
+He's pretty old, isn't he?
+She's pretty old, isn't she?
+He's fairly old, isn't he?
+She's fairly old, isn't she?
+He's very naive, isn't he?
+She's very naive, isn't she?
+He's very funny, isn't he?
+She's very funny, isn't she?
+He's diplomatic, isn't he?
+She's diplomatic, isn't she?
+He's determined, isn't he?
+She's determined, isn't she?
+He's dependable, isn't he?
+She's dependable, isn't she?
+He's courageous, isn't he?
+She's courageous, isn't she?
+He's compulsive, isn't he?
+She's compulsive, isn't she?
+He's very angry, isn't he?
+She's very angry, isn't she?
+He's aggressive, isn't he?
+She's aggressive, isn't she?
+He's productive, isn't he?
+She's productive, isn't she?
+He's unassuming, isn't he?
+She's unassuming, isn't she?
+He's a Canadian, isn't he?
+She's a Canadian, isn't she?
+He's having fun, isn't he?
+She's having fun, isn't she?
+He's a beginner, isn't he?
+She's a beginner, isn't she?
+He's a freshman, isn't he?
+She's a freshman, isn't she?
+He's a good kid, isn't he?
+She's a good kid, isn't she?
+He's a lazy kid, isn't he?
+She's a lazy kid, isn't she?
+He's a musician, isn't he?
+She's a musician, isn't she?
+He's a nice kid, isn't he?
+She's a nice kid, isn't she?
+He's a teenager, isn't he?
+She's a teenager, isn't she?
+He's already up, isn't he?
+She's already up, isn't she?
+He's an amateur, isn't he?
+She's an amateur, isn't she?
+He's an atheist, isn't he?
+She's an atheist, isn't she?
+He's an athlete, isn't he?
+She's an athlete, isn't she?
+He's asleep now, isn't he?
+She's asleep now, isn't she?
+He's at the gym, isn't he?
+She's at the gym, isn't she?
+He's back again, isn't he?
+She's back again, isn't she?
+He's back early, isn't he?
+She's back early, isn't she?
+He's big-headed, isn't he?
+She's big-headed, isn't she?
+He's busy again, isn't he?
+She's busy again, isn't she?
+He's busy today, isn't he?
+She's busy today, isn't she?
+He's doing fine, isn't he?
+She's doing fine, isn't she?
+He's doing that, isn't he?
+She's doing that, isn't she?
+He's doing well, isn't he?
+She's doing well, isn't she?
+He's downstairs, isn't he?
+She's downstairs, isn't she?
+He's eating now, isn't he?
+She's eating now, isn't she?
+He's fairly shy, isn't he?
+She's fairly shy, isn't she?
+He's frightened, isn't he?
+She's frightened, isn't she?
+He's going deaf, isn't he?
+She's going deaf, isn't she?
+He's happy here, isn't he?
+She's happy here, isn't she?
+He's illiterate, isn't he?
+She's illiterate, isn't she?
+He's in a hurry, isn't he?
+She's in a hurry, isn't she?
+He's in college, isn't he?
+She's in college, isn't she?
+He's quite busy, isn't he?
+She's quite busy, isn't she?
+He's quite late, isn't he?
+She's quite late, isn't she?
+He's quite lazy, isn't he?
+She's quite lazy, isn't she?
+He's quite mean, isn't he?
+She's quite mean, isn't she?
+He's really mad, isn't he?
+She's really mad, isn't she?
+He's still busy, isn't he?
+She's still busy, isn't she?
+He's still here, isn't he?
+She's still here, isn't she?
+He's still sick, isn't he?
+She's still sick, isn't she?
+He's very bossy, isn't he?
+She's very bossy, isn't she?
+He's very brave, isn't he?
+She's very brave, isn't she?
+He's very crazy, isn't he?
+She's very crazy, isn't she?
+He's very lucky, isn't he?
+She's very lucky, isn't she?
+He's very messy, isn't he?
+She's very messy, isn't she?
+He's very noisy, isn't he?
+She's very noisy, isn't she?
+He's very picky, isn't he?
+She's very picky, isn't she?
+He's very quiet, isn't he?
+She's very quiet, isn't she?
+He's very tough, isn't he?
+She's very tough, isn't she?
+He's very upset, isn't he?
+She's very upset, isn't she?
+He's really busy, isn't he?
+She's really busy, isn't she?
+He's from Boston, isn't he?
+She's from Boston, isn't she?
+He's being vague, isn't he?
+She's being vague, isn't she?
+He's very untidy, isn't he?
+She's very untidy, isn't she?
+He's pretty ugly, isn't he?
+She's pretty ugly, isn't she?
+He's trustworthy, isn't he?
+She's trustworthy, isn't she?
+He's very touchy, isn't he?
+She's very touchy, isn't she?
+He's quite timid, isn't he?
+She's quite timid, isn't she?
+He's still there, isn't he?
+She's still there, isn't she?
+He's sympathetic, isn't he?
+She's sympathetic, isn't she?
+He's very strong, isn't he?
+She's very strong, isn't she?
+He's spontaneous, isn't he?
+She's spontaneous, isn't she?
+He's quite smart, isn't he?
+She's quite smart, isn't she?
+He's very skinny, isn't he?
+She's very skinny, isn't she?
+He's being silly, isn't he?
+She's being silly, isn't she?
+He's quite short, isn't he?
+She's quite short, isn't she?
+He's quite sharp, isn't he?
+She's quite sharp, isn't she?
+He's really rich, isn't he?
+She's really rich, isn't she?
+He's pretty rich, isn't he?
+She's pretty rich, isn't she?
+He's responsible, isn't he?
+She's responsible, isn't she?
+He's pessimistic, isn't he?
+She's pessimistic, isn't she?
+He's open-minded, isn't he?
+She's open-minded, isn't she?
+He's kind of old, isn't he?
+She's kind of old, isn't she?
+He's quite naive, isn't he?
+She's quite naive, isn't she?
+He's angry at me, isn't he?
+She's angry at me, isn't she?
+He's interfering, isn't he?
+She's interfering, isn't she?
+He's interesting, isn't he?
+She's interesting, isn't she?
+He's incompetent, isn't he?
+She's incompetent, isn't she?
+He's coming here, isn't he?
+She's coming here, isn't she?
+He's very greedy, isn't he?
+She's very greedy, isn't she?
+He's your friend, isn't he?
+She's your friend, isn't she?
+He's really fast, isn't he?
+She's really fast, isn't she?
+He's extroverted, isn't he?
+She's extroverted, isn't she?
+He's quite crazy, isn't he?
+She's quite crazy, isn't she?
+He's your cousin, isn't he?
+She's your cousin, isn't she?
+He's really cool, isn't he?
+She's really cool, isn't she?
+He's considerate, isn't he?
+She's considerate, isn't she?
+He's competitive, isn't he?
+She's competitive, isn't she?
+He's quite bossy, isn't he?
+She's quite bossy, isn't she?
+He's quite angry, isn't he?
+She's quite angry, isn't she?
+He's still alive, isn't he?
+She's still alive, isn't she?
+He's almost done, isn't he?
+She's almost done, isn't she?
+He's a bit crazy, isn't he?
+She's a bit crazy, isn't she?
+He's a bit drunk, isn't he?
+She's a bit drunk, isn't she?
+He's a geologist, isn't he?
+She's a geologist, isn't she?
+He's a good cook, isn't he?
+She's a good cook, isn't she?
+He's your nephew, isn't he?
+She's your neice, isn't she?
+He's your brother, isn't he?
+She's your sister, isn't she?
+He's very handsome, isn't he?
+He's a good father, isn't he?
+He's a guitarist, isn't he?
+She's a guitarist, isn't she?
+He's a nonsmoker, isn't he?
+She's a nonsmoker, isn't she?
+He's a paramedic, isn't he?
+She's a paramedic, isn't she?
+He's a scientist, isn't he?
+She's a scientist, isn't she?
+He's a smart kid, isn't he?
+She's a smart kid, isn't she?
+He's a sophomore, isn't he?
+She's a sophomore, isn't she?
+He's a therapist, isn't he?
+She's a therapist, isn't she?
+He's almost deaf, isn't he?
+She's almost deaf, isn't she?
+He's always busy, isn't he?
+She's always busy, isn't she?
+He's always here, isn't he?
+She's always here, isn't she?
+He's always late, isn't he?
+She's always late, isn't she?
+He's an engineer, isn't he?
+She's an engineer, isn't she?
+He's an optimist, isn't he?
+She's an optimist, isn't she?
+He's at home now, isn't he?
+She's at home now, isn't she?
+He's avoiding me, isn't he?
+She's avoiding me, isn't she?
+He's behind this, isn't he?
+She's behind this, isn't she?
+He's charismatic, isn't he?
+She's charismatic, isn't she?
+He's chewing gum, isn't he?
+She's chewing gum, isn't she?
+He's coming back, isn't he?
+She's coming back, isn't she?
+He's coming home, isn't he?
+She's coming home, isn't she?
+He's coming over, isn't he?
+She's coming over, isn't she?
+He's coming soon, isn't he?
+She's coming soon, isn't she?
+He's coming, too, isn't he?
+She's coming, too, isn't she?
+He's cooking now, isn't he?
+She's cooking now, isn't she?
+He's cooperating, isn't he?
+She's cooperating, isn't she?
+He's crying, too, isn't he?
+She's crying, too, isn't she?
+He's discouraged, isn't he?
+She's discouraged, isn't she?
+He's doing great, isn't he?
+She's doing great, isn't she?
+He's drunk again, isn't he?
+She's drunk again, isn't she?
+He's fixing that, isn't he?
+She's fixing that, isn't she?
+He's getting fat, isn't he?
+She's getting fat, isn't she?
+He's going be OK, isn't he?
+She's going be OK, isn't she?
+He's going blind, isn't he?
+She's going blind, isn't she?
+He's happier now, isn't he?
+She's happier now, isn't she?
+He's hardworking, isn't he?
+She's hardworking, isn't she?
+He's heartbroken, isn't he?
+She's heartbroken, isn't she?
+He's hungry, too, isn't he?
+She's hungry, too, isn't she?
+He's ignoring me, isn't he?
+She's ignoring me, isn't she?
+He's in jail now, isn't he?
+She's in jail now, isn't she?
+He's in the room, isn't he?
+She's in the room, isn't she?
+He's independent, isn't he?
+She's independent, isn't she?
+He's influential, isn't he?
+She's influential, isn't she?
+He's intelligent, isn't he?
+She's intelligent, isn't she?
+He's intoxicated, isn't he?
+She's intoxicated, isn't she?
+He's kind of fat, isn't he?
+She's kind of fat, isn't she?
+He's kind of shy, isn't he?
+She's kind of shy, isn't she?
+He's left-handed, isn't he?
+She's left-handed, isn't she?
+He's lying again, isn't he?
+She's lying again, isn't she?
+He's married now, isn't he?
+She's married now, isn't she?
+He's moving away, isn't he?
+She's moving away, isn't she?
+He's new in town, isn't he?
+She's new in town, isn't she?
+He's now in jail, isn't he?
+She's now in jail, isn't she?
+He's now married, isn't he?
+She's now married, isn't she?
+He's now on duty, isn't he?
+She's now on duty, isn't she?
+He's now retired, isn't he?
+She's now retired, isn't she?
+He's often wrong, isn't he?
+She's often wrong, isn't she?
+He's on duty now, isn't he?
+She's on duty now, isn't she?
+He's on our side, isn't he?
+She's on our side, isn't she?
+He's on the list, isn't he?
+She's on the list, isn't she?
+He's on the roof, isn't he?
+She's on the roof, isn't she?
+He's on vacation, isn't he?
+She's on vacation, isn't she?
+He's out of town, isn't he?
+She's out of town, isn't she?
+He's over thirty, isn't he?
+She's over thirty, isn't she?
+He's pretty busy, isn't he?
+She's pretty busy, isn't she?
+He's pretty sick, isn't he?
+She's pretty sick, isn't she?
+He's pretty tall, isn't he?
+She's pretty tall, isn't she?
+He's quite brave, isn't he?
+She's quite brave, isn't she?
+He's quite drunk, isn't he?
+She's quite drunk, isn't she?
+He's quite fussy, isn't he?
+She's quite fussy, isn't she?
+He's quite lucky, isn't he?
+She's quite lucky, isn't she?
+He's quite picky, isn't he?
+She's quite picky, isn't she?
+He's quite young, isn't he?
+She's quite young, isn't she?
+He's ready to go, isn't he?
+She's ready to go, isn't she?
+He's really late, isn't he?
+She's really late, isn't she?
+He's really mean, isn't he?
+She's really mean, isn't she?
+He's really sick, isn't he?
+She's really sick, isn't she?
+He's resting now, isn't he?
+She's resting now, isn't she?
+He's retired now, isn't he?
+She's retired now, isn't she?
+He's showing off, isn't he?
+She's showing off, isn't she?
+He's sick in bed, isn't he?
+She's sick in bed, isn't she?
+He's soft-spoken, isn't he?
+She's soft-spoken, isn't she?
+He's still angry, isn't he?
+She's still angry, isn't she?
+He's still awake, isn't he?
+She's still awake, isn't she?
+He's thickheaded, isn't he?
+She's thickheaded, isn't she?
+He's trying hard, isn't he?
+She's trying hard, isn't she?
+He's very active, isn't he?
+She's very active, isn't she?
+He's very bright, isn't he?
+She's very bright, isn't she?
+He's very clever, isn't he?
+She's very clever, isn't she?
+He's very clumsy, isn't he?
+She's very clumsy, isn't she?
+He's very hungry, isn't he?
+She's very hungry, isn't she?
+He's very scared, isn't he?
+She's very scared, isn't she?
+He's very sleepy, isn't he?
+She's very sleepy, isn't she?
+He's very sneaky, isn't he?
+She's very sneaky, isn't she?
+He's very stingy, isn't he?
+She's very stingy, isn't she?
+He's very strict, isn't he?
+She's very strict, isn't she?
+He's very stupid, isn't he?
+She's very stupid, isn't she?
+He's watching TV, isn't he?
+She's watching TV, isn't she?
+He's wearing red, isn't he?
+She's wearing red, isn't she?
+He's working now, isn't he?
+She's working now, isn't she?
+He's in the park, isn't he?
+She's in the park, isn't she?
+He's still upset, isn't he?
+She's still upset, isn't she?
+He's eating cake, isn't he?
+She's eating cake, isn't she?
+He's contributing, isn't he?
+She's contributing, isn't she?
+He's angry at you, isn't he?
+She's angry at you, isn't she?
+He's unprejudiced, isn't he?
+She's unprejudiced, isn't she?
+He's very unlucky, isn't he?
+She's very unlucky, isn't she?
+He's very unhappy, isn't he?
+She's very unhappy, isn't she?
+He's being unfair, isn't he?
+She's being unfair, isn't she?
+He's really tough, isn't he?
+She's really tough, isn't she?
+He's grumpy today, isn't he?
+She's grumpy today, isn't she?
+He's quite strong, isn't he?
+She's quite strong, isn't she?
+He's quite sneaky, isn't he?
+She's quite sneaky, isn't she?
+He's really smart, isn't he?
+He's pretty smart, isn't he?
+She's pretty smart, isn't she?
+He's still single, isn't he?
+She's still single, isn't she?
+He's really sharp, isn't he?
+She's really sharp, isn't she?
+He's very selfish, isn't he?
+She's very selfish, isn't she?
+He's very popular, isn't he?
+She's very popular, isn't she?
+He's very patient, isn't he?
+She's very patient, isn't she?
+He's swimming now, isn't he?
+She's swimming now, isn't she?
+He's studying now, isn't he?
+She's studying now, isn't she?
+He's very nervous, isn't he?
+She's very nervous, isn't she?
+He's really naive, isn't he?
+She's really naive, isn't she?
+He's still hungry, isn't he?
+She's still hungry, isn't she?
+He's very helpful, isn't he?
+She's very helpful, isn't she?
+He's really happy, isn't he?
+She's really happy, isn't she?
+He's quite greedy, isn't he?
+She's quite greedy, isn't she?
+He's good-looking, isn't he?
+She's good-looking, isn't she?
+He's a lot of fun, isn't he?
+She's a lot of fun, isn't she?
+He's quite famous, isn't he?
+She's quite famous, isn't she?
+He's enthusiastic, isn't he?
+She's enthusiastic, isn't she?
+He's conservative, isn't he?
+She's conservative, isn't she?
+He's very careful, isn't he?
+She's very careful, isn't she?
+He's quite boring, isn't he?
+She's quite boring, isn't she?
+He's still asleep, isn't he?
+She's still asleep, isn't she?
+He's really angry, isn't he?
+She's really angry, isn't she?
+He's going to die, isn't he?
+She's going to die, isn't she?
+He's with someone, isn't he?
+She's with someone, isn't she?
+He's a bad driver, isn't he?
+She's a bad driver, isn't she?
+He's a bright kid, isn't he?
+She's a bright kid, isn't she?
+He's a clever kid, isn't he?
+She's a clever kid, isn't she?
+He's a doctor now, isn't he?
+She's a doctor now, isn't she?
+He's a fast eater, isn't he?
+She's a fast eater, isn't she?
+He's a good skier, isn't he?
+She's a good skier, isn't she?
+He's a little odd, isn't he?
+She's a little odd, isn't she?
+He's a lot better, isn't he?
+She's a lot better, isn't she?
+He's a pharmacist, isn't he?
+She's a pharmacist, isn't she?
+He's a slow eater, isn't he?
+She's a slow eater, isn't she?
+He's a songwriter, isn't he?
+She's a songwriter, isn't she?
+He's a sore loser, isn't he?
+She's a sore loser, isn't she?
+He's a strong kid, isn't he?
+She's a strong kid, isn't she?
+He's a vegetarian, isn't he?
+She's a vegetarian, isn't she?
+He's about my age, isn't he?
+She's about my age, isn't she?
+He's about thirty, isn't he?
+She's about thirty, isn't she?
+He's about to cry, isn't he?
+She's about to cry, isn't she?
+He's afraid of me, isn't he?
+She's afraid of me, isn't she?
+He's afraid of us, isn't he?
+She's afraid of us, isn't she?
+He's almost broke, isn't he?
+She's almost broke, isn't she?
+He's almost ready, isn't he?
+She's almost ready, isn't she?
+He's already back, isn't he?
+She's already back, isn't she?
+He's already here, isn't he?
+She's already here, isn't she?
+He's already home, isn't he?
+She's already home, isn't she?
+He's always broke, isn't he?
+She's always broke, isn't she?
+He's always early, isn't he?
+She's always early, isn't she?
+He's ambidextrous, isn't he?
+She's ambidextrous, isn't she?
+He's an adult now, isn't he?
+She's an adult now, isn't she?
+He's an alcoholic, isn't he?
+She's an alcoholic, isn't she?
+He's an architect, isn't he?
+She's an architect, isn't she?
+He's at the beach, isn't he?
+She's at the beach, isn't she?
+He's awfully sick, isn't he?
+She's awfully sick, isn't she?
+He's back in jail, isn't he?
+She's back in jail, isn't she?
+He's back in town, isn't he?
+She's back in town, isn't she?
+He's coming today, isn't he?
+She's coming today, isn't she?
+He's crying again, isn't he?
+She's crying again, isn't she?
+He's dead serious, isn't he?
+She's dead serious, isn't she?
+He's disorganized, isn't he?
+She's disorganized, isn't she?
+He's doing better, isn't he?
+She's doing better, isn't she?
+He's drinking tea, isn't he?
+She's drinking tea, isn't she?
+He's eating lunch, isn't he?
+She's eating lunch, isn't she?
+He's exaggerating, isn't he?
+She's exaggerating, isn't she?
+He's following us, isn't he?
+She's following us, isn't she?
+He's getting help, isn't he?
+She's getting help, isn't she?
+He's going to cry, isn't he?
+She's going to cry, isn't she?
+He's going to win, isn't he?
+She's going to win, isn't she?
+He's good at golf, isn't he?
+She's good at golf, isn't she?
+He's good at math, isn't he?
+She's good at math, isn't she?
+He's good at that, isn't he?
+She's good at that, isn't she?
+He's good at this, isn't he?
+She's good at this, isn't she?
+He's here to help, isn't he?
+She's here to help, isn't she?
+He's here to stay, isn't he?
+She's here to stay, isn't she?
+He's hungry again, isn't he?
+She's hungry again, isn't she?
+He's in Australia, isn't he?
+She's in Australia, isn't she?
+He's in a meeting, isn't he?
+She's in a meeting, isn't she?
+He's in bad shape, isn't he?
+She's in bad shape, isn't she?
+He's in the attic, isn't he?
+She's in the attic, isn't she?
+He's invited, too, isn't he?
+She's invited, too, isn't she?
+He's kind of busy, isn't he?
+She's kind of busy, isn't she?
+He's kind of late, isn't he?
+She's kind of late, isn't she?
+He's kind of lazy, isn't he?
+She's kind of lazy, isn't she?
+He's leaving soon, isn't he?
+She's leaving soon, isn't she?
+He's living alone, isn't he?
+She's living alone, isn't she?
+He's making lunch, isn't he?
+She's making lunch, isn't she?
+He's overreacting, isn't he?
+She's overreacting, isn't she?
+He's partly right, isn't he?
+She's partly right, isn't she?
+He's playing golf, isn't he?
+She's playing golf, isn't she?
+He's pretty happy, isn't he?
+She's pretty happy, isn't she?
+He's pretty sharp, isn't he?
+She's pretty sharp, isn't she?
+He's pretty upset, isn't he?
+She's pretty upset, isn't she?
+He's pretty weird, isn't he?
+She's pretty weird, isn't she?
+He's quite limber, isn't he?
+She's quite limber, isn't she?
+He's really drunk, isn't he?
+She's really drunk, isn't she?
+He's really funny, isn't he?
+She's really funny, isn't she?
+He's really lucky, isn't he?
+She's really lucky, isn't she?
+He's really upset, isn't he?
+She's really upset, isn't she?
+He's really weird, isn't he?
+She's really weird, isn't she?
+He's right-handed, isn't he?
+She's right-handed, isn't she?
+He's safe for now, isn't he?
+She's safe for now, isn't she?
+He's sleeping now, isn't he?
+She's sleeping now, isn't she?
+He's still afraid, isn't he?
+She's still afraid, isn't she?
+He's still around, isn't he?
+She's still around, isn't she?
+He's still crying, isn't he?
+She's still crying, isn't she?
+He's still eating, isn't he?
+She's still eating, isn't she?
+He's still inside, isn't he?
+She's still inside, isn't she?
+He's still scared, isn't he?
+She's still scared, isn't she?
+He's taking a nap, isn't he?
+She's taking a nap, isn't she?
+He's the youngest, isn't he?
+She's the youngest, isn't she?
+He's used to that, isn't he?
+She's used to that, isn't she?
+He's very bashful, isn't he?
+She's very bashful, isn't she?
+He's very excited, isn't he?
+She's very excited, isn't she?
+He's very strange, isn't he?
+She's very strange, isn't she?
+He's very worried, isn't he?
+She's very worried, isn't she?
+He's wasting time, isn't he?
+She's wasting time, isn't she?
+He's wearing blue, isn't he?
+She's wearing blue, isn't she?
+He's with friends, isn't he?
+She's with friends, isn't she?
+He's working hard, isn't he?
+She's working hard, isn't she?
+He's worried, too, isn't he?
+She's worried, too, isn't she?
+He's fairly young, isn't he?
+She's fairly young, isn't she?
+He's concentrating, isn't he?
+He's unpredictable, isn't he?
+He's very thorough, isn't he?
+He's temperamental, isn't he?
+He's very talented, isn't he?
+He's very stubborn, isn't he?
+He's really strong, isn't he?
+He's very spirited, isn't he?
+He's really skinny, isn't he?
+He's extremely shy, isn't he?
+He's very reckless, isn't he?
+He's getting ready, isn't he?
+He's quite popular, isn't he?
+He's quite patient, isn't he?
+He's very outgoing, isn't he?
+He's very obedient, isn't he?
+He's very busy now, isn't he?
+He's in Boston now, isn't he?
+He's quite nervous, isn't he?
+He's narrow-minded, isn't he?
+He's quite liberal, isn't he?
+He's really hungry, isn't he?
+He's very generous, isn't he?
+He's very friendly, isn't he?
+He's being foolish, isn't he?
+He's very decisive, isn't he?
+He's quite cynical, isn't he?
+He's very creative, isn't he?
+He's conscientious, isn't he?
+He's in your class, isn't he?
+He's very careless, isn't he?
+He's quite careful, isn't he?
+He's very arrogant, isn't he?
+He's quite anxious, isn't he?
+He's very annoying, isn't he?
+He's unintelligent, isn't he?
+He's a good singer, isn't he?
+He's kind of weird, isn't he?
+He's with somebody, isn't he?
+He's a bass player, isn't he?
+He's a bit jealous, isn't he?
+He's a bit strange, isn't he?
+He's a busy person, isn't he?
+He's a dog trainer, isn't he?
+He's a fast runner, isn't he?
+He's a fast walker, isn't he?
+He's a fussy eater, isn't he?
+He's a good dancer, isn't he?
+He's a good driver, isn't he?
+He's a good person, isn't he?
+He's a good skater, isn't he?
+He's a good worker, isn't he?
+He's a gym teacher, isn't he?
+He's a hard worker, isn't he?
+He's a law student, isn't he?
+He's a little nuts, isn't he?
+He's a nice person, isn't he?
+He's a picky eater, isn't he?
+He's a safe driver, isn't he?
+He's a slow walker, isn't he?
+He's a strange kid, isn't he?
+He's a student too, isn't he?
+He's a teacher now, isn't he?
+He's able to skate, isn't he?
+He's about my size, isn't he?
+He's afraid of you, isn't he?
+He's all right now, isn't he?
+He's almost asleep, isn't he?
+He's almost thirty, isn't he?
+He's already drunk, isn't he?
+He's already there, isn't he?
+He's always around, isn't he?
+He's always polite, isn't he?
+He's an accountant, isn't he?
+He's an art critic, isn't he?
+He's an art dealer, isn't he?
+He's an only child, isn't he?
+He's angry with me, isn't he?
+He's as tall as me, isn't he?
+He's at church now, isn't he?
+He's at home today, isn't he?
+He's at school now, isn't he?
+He's aware of that, isn't he?
+He's bad at sports, isn't he?
+He's baking a cake, isn't he?
+He's being careful, isn't he?
+He's being evasive, isn't he?
+He's desperate now, isn't he?
+He's different now, isn't he?
+He's drinking milk, isn't he?
+He's your boyfriend, isn't he?
+He's enjoying this, isn't he?
+He's expecting you, isn't he?
+He's fishing today, isn't he?
+He's getting angry, isn't he?
+He's getting bored, isn't he?
+He's getting worse, isn't he?
+He's going to fail, isn't he?
+He's going to lose, isn't he?
+He's going to pass, isn't he?
+He's going to quit, isn't he?
+He's going to sing, isn't he?
+He's going to stay, isn't he?
+He's going to wait, isn't he?
+He's good at chess, isn't he?
+He's grouchy today, isn't he?
+He's happy with it, isn't he?
+He's hard to reach, isn't he?
+He's in a bad mood, isn't he?
+He's in charge now, isn't he?
+He's in good shape, isn't he?
+He's in prison now, isn't he?
+He's in the garage, isn't he?
+He's in the garden, isn't he?
+He's in the shower, isn't he?
+He's irreplaceable, isn't he?
+He's jealous of me, isn't he?
+He's just stalling, isn't he?
+He's kind of needy, isn't he?
+He's legally blind, isn't he?
+He's likely to cry, isn't he?
+He's likely to win, isn't he?
+He's listening now, isn't he?
+He's looking at it, isn't he?
+He's looking at me, isn't he?
+He's looking at us, isn't he?
+He's making a list, isn't he?
+He's making coffee, isn't he?
+He's making dinner, isn't he?
+He's now a teacher, isn't he?
+He's now in Boston, isn't he?
+He's now in prison, isn't he?
+He's older than me, isn't he?
+He's on duty today, isn't he?
+He's on this plane, isn't he?
+He's on this train, isn't he?
+He's only bluffing, isn't he?
+He's out of prison, isn't he?
+He's out to get me, isn't he?
+He's overconfident, isn't he?
+He's pretty crafty, isn't he?
+He's pretty scared, isn't he?
+He's quite selfish, isn't he?
+He's ready to help, isn't he?
+He's really afraid, isn't he?
+He's really clever, isn't he?
+He's really greedy, isn't he?
+He's really scared, isn't he?
+He's relying on us, isn't he?
+He's scared of you, isn't he?
+He's staring at me, isn't he?
+He's staring at us, isn't he?
+He's still a minor, isn't he?
+He's still at home, isn't he?
+He's still at work, isn't he?
+He's still in jail, isn't he?
+He's still married, isn't he?
+He's still nervous, isn't he?
+He's still on duty, isn't he?
+He's still outside, isn't he?
+He's still unhappy, isn't he?
+He's still waiting, isn't he?
+He's still working, isn't he?
+He's still worried, isn't he?
+He's studying hard, isn't he?
+He's taking a bath, isn't he?
+He's under the bed, isn't he?
+He's usually right, isn't he?
+He's very artistic, isn't he?
+He's very gullible, isn't he?
+He's wearing a hat, isn't he?
+He's wearing a wig, isn't he?
+He's willing to go, isn't he?
+He's really stupid, isn't he?
+He's a chiropractor, isn't he?
+He's really unlucky, isn't he?
+He's really unhappy, isn't he?
+He's pretty unhappy, isn't he?
+He's being truthful, isn't he?
+He's a troublemaker, isn't he?
+He's good at tennis, isn't he?
+He's a good teacher, isn't he?
+He's very talkative, isn't he?
+He's quite talented, isn't he?
+He's still swimming, isn't he?
+He's a good student, isn't he?
+He's quite stubborn, isn't he?
+He's quite sociable, isn't he?
+He's really serious, isn't he?
