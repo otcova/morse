@@ -30,7 +30,7 @@ class KeyListener {
 
     touchstart(e) {
         e.preventDefault()
-        navigator.vibrate(20)
+        navigator.vibrate(7)
         this.touch_count += 1
         e.target.style.background = touch_color
         this.press()
