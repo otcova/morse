@@ -11,3 +11,4 @@ window.start_decode = function () {
     page.load(page.decode)
     decode.start()
 }
+
