@@ -27,8 +27,8 @@ export function start() {
 }
 
 keyboard.on_typed_char(char => {
-    const typed = morse.decode(char).toUpperCase()
-    const expected = text_display.get_text()[0].toUpperCase()
+    const typed = morse.decode(char)?.toUpperCase()
+    const expected = text_display.get_text()[0]?.toUpperCase()
 
     if (!expected)
         return
