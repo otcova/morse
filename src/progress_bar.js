@@ -7,7 +7,7 @@ export function get_progress(letter) {
 }
 
 export function set_progress(letter, progress) {
-    if (!Number.isFinite(letter))
+    if (!Number.isFinite(progress))
         return
 
     progress = Math.min(1, Math.max(0, progress))
