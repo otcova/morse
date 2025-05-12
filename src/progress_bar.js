@@ -1,16 +1,19 @@
 let symbols_to_show = []
 
+const SCALE = 100;
+
 export function get_progress(letter) {
     if (!letter)
         return 0
-    return Number(localStorage.getItem(letter.toUpperCase())) || 0
+    const stored = Number(localStorage.getItem(letter.toUpperCase())) || 0
+    return stored / 100
 }
 
 export function set_progress(letter, progress) {
-    if (!Number.isFinite(progress))
+    if (!Number.isFinite(progress) || !letter)
         return
 
-    progress = Math.min(1, Math.max(0, progress))
+    progress = Math.min(SCALE, Math.max(0, Math.round(progress * SCALE)))
     localStorage.setItem(letter.toUpperCase(), progress)
     update_chars()
 }

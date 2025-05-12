@@ -197,7 +197,7 @@ button {
 }
 
 .phrase.first:before {
-    margin-left: -300px;
+    margin-left: -500px;
 }
 
 .phrase:before {
@@ -211,7 +211,7 @@ button {
     margin-left: -40px;
 
     background: var(--background);
-    transition: margin-left 0.3s ease-in-out;
+    transition: margin-left 0.4s ease-in-out;
 }
 
 .char {

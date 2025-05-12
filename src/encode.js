@@ -9,7 +9,7 @@ const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 const numbers = "0123456789"
 let chars_to_study = letters
 
-const MIN_CHARS = 20
+const MIN_CHARS = 30
 
 const WRONG_STEP = -0.5
 const GOOD_STEP = 0.2
@@ -23,19 +23,23 @@ export function start() {
     text_display.push_text(text_database.words.get_random())
     text_display.push_text(text_database.words.get_random())
     text_display.push_text(text_database.words.get_random())
+    text_display.push_text(text_database.words.get_random())
 }
 
 keyboard.on_typed_char(char => {
-    let letter = morse.decode(char)
-    let text = text_display.get_text()
+    const typed = morse.decode(char).toUpperCase()
+    const expected = text_display.get_text()[0].toUpperCase()
 
-    if (!text.toUpperCase().startsWith(letter) || !letter) {
-        progress_bar.set_progress(letter, progress_bar.get_progress(letter) - WRONG_STEP)
-        morse_hint.show(text[0])
+    if (!expected)
+        return
+
+    if (expected != typed) {
+        progress_bar.set_progress(expected, progress_bar.get_progress(expected) + WRONG_STEP)
+        morse_hint.show(expected[0])
         return
     }
 
-    progress_bar.set_progress(letter, progress_bar.get_progress(letter) + GOOD_STEP)
+    progress_bar.set_progress(typed, progress_bar.get_progress(typed) + GOOD_STEP)
     text_display.pop_char()
     morse_hint.hide()
 

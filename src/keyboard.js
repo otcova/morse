@@ -1,5 +1,5 @@
 const touch_color = "#0003"
-const char_timeout_secs = 0.3
+const char_timeout_secs = 0.2
 
 
 let on_typed_char_action = () => { }
