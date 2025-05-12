@@ -162,10 +162,7 @@ button {
     justify-self: center;
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
-}
-
-#morse-hint:hover {
-    background-position: 100px 0;
+    z-index: 1;
 }
 
 #symbol-progress {

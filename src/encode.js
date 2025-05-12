@@ -11,8 +11,8 @@ let chars_to_study = letters
 
 const MIN_CHARS = 20
 
-const WRONG_STEP = -0.3
-const GOOD_STEP = 0.1
+const WRONG_STEP = -0.5
+const GOOD_STEP = 0.2
 
 export function start() {
     keyboard.clear()
