@@ -38,7 +38,7 @@ addEventListener("resize", () => {
 
 export async function show(letter) {
     const img = document.getElementById("morse-hint")
-
+    letter = letter.toUpperCase()
     if (letter == current_letter && img.style.opacity == "1")
         return
 
